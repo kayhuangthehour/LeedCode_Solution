@@ -1,2 +1,2 @@
 # LeedCode_Solution
-Kay's github solution in Python
+Kay's LC solution in Python
